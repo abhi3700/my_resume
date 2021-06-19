@@ -17,8 +17,11 @@ I am committed to make the society free from problems by making every business w
 * Cross-Platform App Development: 5%
 
 ## Skills
+* Git - 8/10
 * MS Excel Automation - 9/10
+* Technical Documentation - 8/10
 * UI/UX Design Tools - 6/10
 * MS Powerpoint Animation - 7/10
 * MS Word Automation - 5/10
-* Technical Documentation - 8/10
+
+## Language proficiency: C, C++, Python, Java, Batch, Bash, XML, HTML.
