@@ -25,3 +25,6 @@ I am committed to make the society free from problems by making every business w
 * MS Word Automation - 5/10
 
 ## Language proficiency: C, C++, Python, Java, Batch, Bash, XML, HTML.
+
+## Beautify
+* https://github.com/alexandresanlim/Badges4-README.md-Profile
