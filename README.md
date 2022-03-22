@@ -1,14 +1,16 @@
 # my_resume
-My Resumes in different platforms
 
 ## About Me
 I am committed to make the society free from problems by making every business with inherent features - Transparency, Incentivization and Decision-making rights
 
 ## Career Timeline
-* 2014-2021: Scientist/Engineer 'SD' @ Semiconductor Laboratory | Chandigarh, India
 * 2018: CTO @ DRIFE
 * 2019-2021: Freelancer @ Fiverr, Telegram
 * 2019-2021: Educator @ Udemy
+* 2021
+    - July-Sept: Lead Blockchain Developer @ Boot Finance
+    - Dec-Mar: Senior Blockchain Engineer @ Master Ventures
+    - Dec- : CTO @ Theia Labs
 
 ## Expertise
 * Blockchain: 70%
