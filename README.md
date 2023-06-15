@@ -6,7 +6,7 @@ I am committed to make the society free from problems by making every business w
 
 ## Career Timeline
 
-Follow my [CV](./my_resume.pdf) please.
+Follow my [CV](./my_resume_v2.pdf) please.
 
 ## Expertise
 
