@@ -68,6 +68,14 @@ For collaborative working as a team, I use the following tools:
 - AI tools
   - ChatGPT ⭐️⭐️⭐️⭐️
   - Copilot ⭐️⭐️⭐️⭐️⭐️
+- Screen Recording + Webcam
+  - Movavi (one-time purchase) ⭐️⭐️⭐️⭐️
+  - Vidline (500 rs/month)
+    - **floating** webcam preview (any shape: circle, rectangle with custom background, w/o background)
+  - ScreenRec
+    - Not yet released for mac. But it is available for windows & linux. It has webcam preview (any shape: circle, rectangle with custom background, w/o background)
+  - PPT recording (free)
+    - done in full-screen w 'cameo' feature on every slide. So, it is floating.
 
 ## Beautify
 
