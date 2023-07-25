@@ -61,6 +61,9 @@ For collaborative working as a team, I use the following tools:
   - Freeform ⭐️⭐️⭐️⭐️
   - Miro ⭐️⭐️⭐️⭐️⭐️ (if budget is available)
     > Use for whiteboard explanation using drawing over the screen, and also for workflow diagram
+  - Draw.io ⭐️⭐️⭐️⭐️⭐️ (FREE)
+    > Also used ByteByteGo for workflow diagram
+    - Take more pictures (car, etc.) from Freeform, PPT (online pictures, icons) and paste it in Draw.io after editing the image(s).
 - UI/UX design
   - Figma ⭐️⭐️⭐️⭐️⭐️
 - Code Maintenance
